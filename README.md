@@ -14,11 +14,12 @@ Our goal is to predict type of customers who prefers to stay either in the city 
 
 
 # 2.Data Source :
-[Data in github](https://github.com/skala2/Hotel-Bookings/blob/main/data/hotel_bookings.csv)
 
 Data was collected from the [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) website.
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 The information is collected from hotels in different countries.
+
+[Data file](https://github.com/skala2/Hotel-Bookings/blob/main/data/hotel_bookings.csv) is under data folder in github.
 
 # 3.	Business Understanding:
 
@@ -38,3 +39,6 @@ The Best to book the hotel either the night of a week or weekend. This is under 
 The hotel type chossen by different type of customers. It is plotted as barchart and one can find it under Quiet Night in, or Night out on the town? - Resort vs. City Clientele.
 For the people who opt to book hotel at the last minute. They can find their best chances by month in a bar chart visualization under Last minute Bookers tab.
 
+# 6. Code file:
+
+The R file to load shinyapp is named as [hotel_booking_guide.r](https://github.com/skala2/Hotel-Bookings/blob/main/hotel_booking_guide.r)
