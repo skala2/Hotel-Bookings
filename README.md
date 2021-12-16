@@ -23,7 +23,7 @@ My goal for this project is to identify the type of hotel chossen by different c
 
 # 4. Data Understanding:
 
-R library used: shinydashboard, shinythemes, ggthemes, shiny, ggplot2, dplyr, RColorBrewer, gganimate, babynames, hrbrthemes, magrittr, shinycssloaders, shinycustliader.
+R libraries used: shinydashboard, shinythemes, ggthemes, shiny, ggplot2, dplyr, RColorBrewer, gganimate, babynames, hrbrthemes, magrittr, shinycssloaders, shinycustliader.
 
 The data set contains 119390 rows and 32 columns.
 
