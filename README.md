@@ -1,10 +1,10 @@
 # Shinyapp Project R
-![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)
+![](https://github.com/skala2/Hotel-Bookings/blob/main/www/R_studio.png)
 
 [Shinyapp](https://sundariuncc.shinyapps.io/Hotel_booking_guide/) website.
 
 # 1.	Project Overview:
-![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
+![](https://github.com/skala2/Hotel-Bookings/blob/main/www/hotel.jpeg)
  
 The goal of the project is to predict the count of booking cancellations and peak time of bookings in which month of the year. The data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. From this, we can understand the customer’s behavior and it might help us to take better decisions.  
 
@@ -14,7 +14,7 @@ Our goal is to predict type of customers who prefers to stay either in the city 
 
 
 # 2.Data Source :
-![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel_bookings.csv)
+![Data in github](https://github.com/skala2/Hotel-Bookings/blob/main/data/hotel_bookings.csv)
 Data was collected from the [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) website.
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 The information is collected from hotels in different countries.
