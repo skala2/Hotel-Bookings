@@ -1,6 +1,7 @@
 # Shinyapp Project R
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)
-###[Shinyapp](https://sundariuncc.shinyapps.io/Hotel_booking_guide/) website.
+
+[Shinyapp](https://sundariuncc.shinyapps.io/Hotel_booking_guide/) website.
 
 # 1.	Project Overview:
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
