@@ -1,10 +1,10 @@
 # Shinyapp Project R
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)
 
- # 1.	Project Overview:
- ![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
+# 1.	Project Overview:
+![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
  
- The goal of the project is to predict the count of booking cancellations and peak time of bookings in which month of the year. The data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. From this, we can understand the customer’s behavior and it might help us to take better decisions.  
+The goal of the project is to predict the count of booking cancellations and peak time of bookings in which month of the year. The data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. From this, we can understand the customer’s behavior and it might help us to take better decisions.  
 
 The process of our analysis will be: Understanding the Datasets, Analyzing, and visualizing the data. 
 
@@ -13,7 +13,6 @@ Our goal is to predict type of customers who prefers to stay either in the city 
 
 # 2.Data Source :
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel_bookings.csv)
-
 Data was collected from the [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) website.
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 The information is collected from hotels in different countries.
@@ -22,13 +21,13 @@ The information is collected from hotels in different countries.
 
 My goal for this project is to identify the type of hotel chossen by different customer type. The count of customers, number of cancellations and the maximum number of bookings monthly. The best time and the best type of hotel to chosse for parents with children. This will help the customers to make better decisions while planning travel.
 
-Data Understanding:
+# 4. Data Understanding:
 
 R library used: shinydashboard, shinythemes, ggthemes, shiny, ggplot2, dplyr, RColorBrewer, gganimate, babynames, hrbrthemes, magrittr, shinycssloaders, shinycustliader.
 
 The data set contains 119390 rows and 32 columns.
 
-Analyzing, and visualizing the data:
+# 5. Analyzing, and visualizing the data:
 
 The hotel data for united states is filtered to plot the number of bookings per holidays and number of bookings per month. This visualization is plotted under Best time of Year to Book - Bookings by Holidays and Months.
 The racing line chart is used to visualize the best time of a year for parents to make hotel bookings. This is under Best time of Year to Book - Kid friendly time of year.
