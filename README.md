@@ -14,7 +14,8 @@ Our goal is to predict type of customers who prefers to stay either in the city 
 
 
 # 2.Data Source :
-![Data in github](https://github.com/skala2/Hotel-Bookings/blob/main/data/hotel_bookings.csv)
+[Data in github](https://github.com/skala2/Hotel-Bookings/blob/main/data/hotel_bookings.csv)
+
 Data was collected from the [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) website.
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 The information is collected from hotels in different countries.
